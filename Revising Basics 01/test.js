@@ -1,0 +1,1 @@
+document.getElementById("heading").textContent = "You know the deal";
