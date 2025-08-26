@@ -24,3 +24,4 @@ console.log(multiplicationFirstAndSecondFavNums)
 console.log(divisionFirstAndSecondFavNums)
 console.log(modFirstAndSecondFavNums)
 console.log(powerFirstAndSecondFavNums)
+
