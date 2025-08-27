@@ -54,3 +54,14 @@ let message =
 message += " he was never participated in a movie";
 
 console.log(message);
+
+//example of template leterals
+let name = "ilyass"
+let age = 24
+let example = `hello, this is ${name}, and 
+i am ${age} years old`
+
+console.log(example) 
+/* RESULT: 
+hello, this is ilyass, and 
+i am 24 years old*/
