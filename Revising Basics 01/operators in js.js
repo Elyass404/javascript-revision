@@ -19,5 +19,3 @@ let isEqualStrict = firstFavNum === secondFavNum;
 let isEqual = firstFavNum == secondFavNum;
 let isNotEqualStrict = firstFavNum !== secondFavNum;
 let isNotEqual = firstFavNum != secondFavNum;
-
-
