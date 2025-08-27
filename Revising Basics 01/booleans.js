@@ -6,6 +6,8 @@
 let isJsProgrammingLanguage = true;
 let isJsHard = false;
 let favNumb = 31;
-favNumb = undefined
+favNumb += undefined 
 
 console.log(favNumb)
+
+
