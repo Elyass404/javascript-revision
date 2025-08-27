@@ -25,6 +25,13 @@ let joined = splitted.join("-"); // so the elements inside the array "splitted" 
 //to trim/remove all the spaces in the bigenning and the ending in a certain string (not in the middle of the sting)
 let trimed = first.trim();
 
+/*NOTE: when you write a multi line string and store it in to a variable 
+with the single/double quotes, the compiler will give you an error.
+so to store a multiline string in a variable, you should use the backticks to give you what 
+we call 'template leterals" so you can write multiple lines and store them in a var 
+it is very usefull when used in writing an html code with changable variables 
+ */
+
 //--------------Exercice-----------------
 
 // 1. Create variable name (favActorFirstName) & store your fav Actor name.
